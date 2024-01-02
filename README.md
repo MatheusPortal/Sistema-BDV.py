@@ -20,6 +20,21 @@ Este é um aplicativo de gestão de estoque e vendas desenvolvido em Python, uti
 - A aparência da interface do usuário pode ser personalizada, como a opacidade da janela e a cor do aplicativo.
 - O aplicativo lida com eventos de clique em botões e alterações no estado da janela.
 
+### Conexões e Integrações
+
+- O aplicativo pode se conectar a impressoras, facilitando a impressão de recibos ou relatórios.
+- Ele também possui integração com a chave Pix e um leitor de código de barras para facilitar as transações de venda.
+
+### Estatísticas
+
+- O aplicativo pode calcular o lucro total, a diferença de vendas diárias e a média de lucro por item.
+- Ele também pode classificar os itens mais vendidos e exibir a tendência de lucro em um gráfico.
+
+## Download
+
+Você pode baixar a versão compilada do aplicativo para uso aqui.
+https://mega.nz/file/5xYS0ayD#oMYVM1tIVOt9JOkr3QE0QaSE2kxDFyaisIzuAUSKwsw
+
 ## Como usar
 
 1. Clone este repositório.

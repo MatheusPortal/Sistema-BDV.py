@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="ic">
+    <file>discord.png</file>
+    <file>discordB.png</file>
+    <file>close_m.png</file>
+    <file>close.png</file>
+    <file>minimize_m.png</file>
+    <file>minimize.png</file>
+  </qresource>
+</RCC>

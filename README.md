@@ -33,7 +33,7 @@ Este é um aplicativo de gestão de estoque e vendas desenvolvido em Python, uti
 ## Download
 
 Você pode baixar a versão compilada do aplicativo para uso aqui.
-https://mega.nz/file/5xYS0ayD#oMYVM1tIVOt9JOkr3QE0QaSE2kxDFyaisIzuAUSKwsw
+https://mega.nz/file/poh3iSKS#y6fPYv30St7XXxbziEWpY4x5sLDWhw8mP9I-fLVYUSY
 
 ## Como usar
 
